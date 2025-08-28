@@ -1,2 +1,2 @@
-# Fundamentos-de-la-Programaci-n
+# Fundamentos-de-la-Programacion
 Mis códigos 
